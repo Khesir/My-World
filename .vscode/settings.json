@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2D Top Down RPG.sln"
+    "dotnet.defaultSolution": "Game-Systems-library.sln"
 }
