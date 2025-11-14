@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e3bc99cd4dcc2a41a374e28059770b7, type: 3}
   m_Name: New Item
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Iron Sword
   description: 
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: eccfd1983f8208d4f98cf0185c54e8b7, type: 3}
   itemType: 0
   rarity: 0
-  isStackable: 1
+  isStackable: 0
   maxStackSize: 99
-  baseDropRate: 0.1
+  baseDropRate: 0
   damage: 0
   defense: 0
   attackSpeed: 1
